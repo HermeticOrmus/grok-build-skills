@@ -20,7 +20,7 @@
 
 > Reusable skills and frameworks for Grok Build — distilled from real AI-assisted development sessions and the Reality OS. Battle-tested on the move from Claude to Grok.
 
-**The on-ramp for users leaving Claude Code**: Start with [claude-exorcist](https://github.com/HermeticOrmus/claude-exorcist) to burn old residue, then install these Grok-native tools for continuity, power, and clean workflows.
+**The on-ramp for users leaving Claude Code**: Start with [claude-exorcist](https://github.com/HermeticOrmus/claude-exorcist) + the [claude-to-grok](https://github.com/HermeticOrmus/claude-to-grok) hub, then install these Grok-native tools for continuity, power, and clean workflows.
 
 ## Skills
 
