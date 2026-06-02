@@ -37,6 +37,13 @@
 | [best-of-n](./best-of-n/) | Implement a task N ways in parallel (isolated worktrees), evaluate, and apply the winner. | Quality via exploration |
 | [check-work](./check-work/) | Verification subagent. Reviews diffs, runs builds/tests, evaluates correctness. | Self-verification |
 | [help](./help/) | Grok documentation and configuration help — setup, MCP, skills, shortcuts, etc. | Onboarding & reference |
+| [daily-brief](./daily-brief/) | Proactive personal daily intelligence brief pulling voice, projects, finance, comms, memory. | Personal computer assistant core |
+| [task-orchestrator](./task-orchestrator/) | Decompose and execute tasks with subagents, meta-build, verification. | Personal computer assistant core |
+| [file-assistant](./file-assistant/) | Navigate, search, organize, edit, backup personal files safely via terminal. | Personal computer assistant core |
+| [personal-memory](./personal-memory/) | Distill and recall long-term personal context and learnings. | Personal computer assistant core |
+| [comms-assistant](./comms-assistant/) | Manage WhatsApp/pull/push comms, notifications, personal updates. | Personal computer assistant core |
+| [terminal-control](./terminal-control/) | Advanced terminal ops, monitoring, background tasks, launch ormus-term. | Personal computer assistant core |
+| [voice-processor](./voice-processor/) | Process ormus-voice/recorder notes into summaries, actions, memory. | Personal computer assistant core |
 
 (Additional skills in the full ~/.grok/skills/ surface: wa, xlsx, docx, pptx, mars, raven-*, etc. See the skills dir or `~/.grok/docs/user-guide/08-skills.md`.)
 
