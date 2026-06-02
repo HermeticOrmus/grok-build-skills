@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_flame.gif" alt="Grok Code Skills" width="128" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_flame.gif" alt="Grok Build Skills" width="128" style="image-rendering: pixelated;" />
 </p>
 
-<h1 align="center">Grok Code Skills</h1>
+<h1 align="center">Grok Build Skills</h1>
 
 <p align="center">
-  <em>Grok-native skills, prompts, and workflows adapted from Claude Code skills for xAI Grok — direct, truth-seeking, maximally helpful.</em>
+  <em>Grok-native skills, prompts, and workflows adapted from Claude Code skills for xAI Grok Build — direct, truth-seeking, maximally helpful.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/HermeticOrmus/grok-code-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/grok-code-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
-  <a href="https://github.com/HermeticOrmus/grok-code-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/grok-code-skills?style=flat-square&color=aa8142" alt="License" /></a>
-  <a href="https://github.com/HermeticOrmus/grok-code-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/grok-code-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
-  <img src="https://img.shields.io/badge/Grok_Skills-aa8142?style=flat-square" alt="Grok Skills" />
-  <img src="https://img.shields.io/badge/Grok-aa8142?style=flat-square" alt="Grok" />
+  <a href="https://github.com/HermeticOrmus/grok-build-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/grok-build-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/grok-build-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/grok-build-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/grok-build-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/grok-build-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Grok_Build_Skills-aa8142?style=flat-square" alt="Grok Build Skills" />
+  <img src="https://img.shields.io/badge/Grok_Build-aa8142?style=flat-square" alt="Grok Build" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Grok is more direct, tool-capable, and less inclined to theater or paternalism. 
 
 These are Grok skills (and compatible with the broader surface).
 
-1. `git clone https://github.com/HermeticOrmus/grok-code-skills ~/.grok/skills/grok-code-skills` (or clone individual skill dirs directly into `~/.grok/skills/<name>`).
+1. `git clone https://github.com/HermeticOrmus/grok-build-skills ~/.grok/skills/grok-build-skills` (or clone individual skill dirs directly into `~/.grok/skills/<name>`).
 2. In a Grok session, use the triggers or `/<skill-name>`.
 3. Or read the SKILL.md and apply manually.
 
@@ -75,7 +75,7 @@ Each is self-contained.
 ## Structure
 
 ```
-grok-code-skills/
+grok-build-skills/
   README.md
   <skill-name>/
     SKILL.md
