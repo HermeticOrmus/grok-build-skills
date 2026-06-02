@@ -47,6 +47,7 @@ Key tools that have richer docs and dedicated public homes. Install directly:
 | Repo | What it does |
 |------|-------------|
 | [claude-exorcist](https://github.com/HermeticOrmus/claude-exorcist) | Remove Claude residue from projects (the essential first step when migrating) |
+| [grok-build-reality-os](https://github.com/HermeticOrmus/grok-build-reality-os) | Full Grok Build Reality OS doctrine (AGENTS.md), official user guides, and Hermetic starter kit |
 | [ormus-handoff](https://github.com/HermeticOrmus/ormus-handoff) / [ormus-pickup](https://github.com/HermeticOrmus/ormus-pickup) / [ormus-absorb](https://github.com/HermeticOrmus/ormus-absorb) / [ormus-explore](https://github.com/HermeticOrmus/ormus-explore) | The ormus session lifecycle — context that survives machine switches, context clears, and model changes |
 | (calcinate, prime, etc. — see above or graduate more) |
 
